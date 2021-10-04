@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "fullName": "Mrudula",
+    "dob": "1998-05-01",
+    "phoneNumber": "333-962-7516",
+    "jobtype":"FT",
+    "preferedjoblocation":"Hyderabad",
+    "email": "jenny.chan@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Jessica warren",
+    "dob": "1992-01-01",
+    "phoneNumber": "011-211-7516",
+    "jobtype":"PT",
+    "preferedjoblocation":"Hyderabad",
+    "email": "jessica.warren@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Tony Frank",
+    "dob": "1999-05-21",
+    "phoneNumber": "788-962-7516",
+    "jobtype":"PT",
+    "preferedjoblocation":"Bangalore",
+    "email": "tony.frank@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Jeremy Clark",
+    "dob": "1996-01-21",
+    "phoneNumber": "011-962-111",
+    "jobtype":"FT",
+    "preferedjoblocation":"Chennai",
+    "email": "jeremy.clark@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Raymond Edwards",
+    "dob": "1991-11-15",
+    "phoneNumber": "3231-962-7516",
+    "jobtype":"PT",
+    "preferedjoblocation":"Chennai",
+    "email": "raymon.edwards@email.com"
+  }
+]
